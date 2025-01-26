@@ -1,0 +1,19 @@
+html{
+    background-color: rebeccapurple;
+    height: 90px;
+    width: 50px;
+}
+div{
+    height: 90px;
+    width: 40cm;
+    background-color: red;
+}
+h2{
+    color: yellow;
+}
+h3{
+    color: white;
+}
+#main{
+    color: yellow;
+}

@@ -1,0 +1,21 @@
+div{
+    background-color: #ee0808;
+    height: 120px;
+    width: 120px;
+    color: rgb(7, 13, 10);
+}
+#Sccrol{
+    overflow: scroll;
+}
+#hidden{
+    overflow: hidden;
+}
+#auto{
+    overflow: auto;
+}
+#clip{
+    overflow: clip;
+}
+#visible{
+    overflow: visible;
+}

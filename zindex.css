@@ -1,0 +1,31 @@
+div{
+    position: absolute;
+    height: 75px;
+    width: 75px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#first{
+    background-color: red;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+}
+#sceond{
+    background-color: rgb(10, 36, 232);
+    top: 30px;
+    left: 30px;
+    z-index: 3;
+}
+#third{
+    background-color: rgb(42, 228, 5);
+    top: 50px;
+    left: 50px;
+    z-index: 4;
+}
+#forth{
+    background-color: rgb(245, 233, 7);
+    top: 70px;
+    left: 70px;
+    z-index: 5;
+}
